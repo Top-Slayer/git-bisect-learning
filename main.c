@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include "util.h"
+#include "util"
 
 int main() {
-	printf("Hello this is good commit");
+	printf("Hello this is bad commit");
 }
